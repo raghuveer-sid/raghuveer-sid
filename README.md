@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Deep learning and Computer vision**
 
-- 🌱 I’m currently learning **Autonomous vehicle**
+- 🌱 I’m currently learning **Autonomous vehicles**
 
 - 👯 I’m looking to collaborate on **Fields related to Robotics**
 
